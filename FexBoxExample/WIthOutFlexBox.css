@@ -1,0 +1,17 @@
+.bigdiv{
+    margin: 30px;
+    padding:30px;
+}
+*{
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.left{
+    background-color: red;
+}
+.right{
+    background-color: blue;
+}
+.middle{
+    background-color: yellow;
+}
